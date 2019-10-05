@@ -21,7 +21,7 @@ This package works with other custom packages in Unity3d. Please read and follow
 1. Create new Unity Project with version 2017.4.28f1 (or current version VRC runs on)
 2. **First** import the [VRC SDK](https://docs.vrchat.com/docs/setting-up-the-sdk) to the project
 3. Save Scene
-4. Import the camera package
+4. Import the camera package, drag prefab into the scene
 5. Configure camera positions / animations and scene adjustments
 6. Adjust scene lighting
 7. Configure layers / Collision matrix for VRC with VRCSDK before publishing
