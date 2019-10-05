@@ -2,6 +2,8 @@
 
 This package is a starting point for anyone interested is making virtual productions over the network inside Unity and VRChat. You can create your own set or sound stange, and then use this camera system to help you speed up production and give you access to 10 cameras, a camera crane with controls, and 12 overlay slides. You can swap out the slides once you have setup a unity project and imported the package. This is used a is a real-time production environment and we fill the output with OBS (Open Broadcast Software) . VRChat runs on PC and VR, and you will need VRChat (and a VRChat account) to be able to build and publish worlds. This speeds up production when making rooms or builds for vTubing, vPodcasts, and vFilms, and endless "over the network, real-time collaborative" projects. We have filmed many music videos, podcasts and events in VR using this system, please check out some our productions on youtube "Godfrey Meyer" or #boomboxhead to find videos. If you have any questions please feel free to reach out to me on discord painterpainting#5603. Thanks!
 
+Examples of Cameras in Use <iframe width="560" height="315" src="https://www.youtube.com/embed/KzJ8PS-snes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 This package works with other custom packages in Unity3d. Please read and follow these steps to setup the project. 
 Dependencies; include Standard Assets / VRChat SDK before importing package.
