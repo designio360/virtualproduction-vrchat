@@ -66,7 +66,7 @@ You can also use the in-game buttons on the camera panel itself if you are in VR
 
 I suggest using this as a starting point, and move the cameras around to create a sound stage / set that works for your needs.
 
-**Pro-Tip**: Because of the way the camera previews work, only move the Master Root of each camera. You can add a Parent object to the cameras, and animate those for animated camera tracks.
+**Pro-Tip**: Because of the way the camera previews work, only move the Master Root of each camera. You can add a Parent object to the cameras, and animate those for animated camera tracks. Also the names of the layers are reset when VRC SDK setups layers for a project, so the Layers that hide things from the camera lose their name (but still work)... if you would like to hide / show things in the camear view, please re-setup layers and use camera culling.
 
 We have filmed many music videos, podcasts and events in VR using this system. It has sped up production when making rooms or builds for vTubing, vPodcasts, and vFilms, and endless "over the network, real-time collaborative" projects.
 
